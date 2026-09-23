@@ -1,1 +1,9 @@
-# lab-4
+This project focuses on developing effective and structured prompts for Generative AI in the aviation-management context. The main objective of the activity is to understand how a well-designed prompt can improve the clarity, relevance, usefulness, and reliability of AI-generated outputs. The project introduces four essential ingredients of a good prompt: Task, Context, Constraints, and Output Format.
+
+The activity begins by analysing a vague aviation prompt, “Write a message about a delayed flight.” The project identifies the limitations of this prompt, including missing flight number, route, delay duration, reason for delay, revised departure time, passenger instructions, tone, word limit, and output format. It demonstrates that a vague prompt provides only the general task and does not provide enough context or constraints for a precise aviation communication.
+
+A structured flight-delay prompt is then developed using a realistic aviation scenario involving Flight AV205 from Delhi to Mumbai. The prompt provides specific flight information, defines a professional and reassuring tone, sets a word limit, restricts the AI from inventing gate, compensation, refund, meal, hotel, or policy information, and specifies the required output as a passenger SMS/message.
+
+The project also applies prompt-building techniques to other aviation-business situations, including baggage complaints, flight-cancellation communication, and staff training. Peer review is used to check whether the task, context, constraints, audience, and output format are clear and testable. The activity further demonstrates the importance of changing one prompt component at a time when testing its effect on the output.
+
+Overall, this project demonstrates that effective prompt engineering is an important skill for using Generative AI responsibly in aviation management. It also highlights that even a well-structured prompt cannot guarantee factual accuracy, so important aviation information must still be verified through appropriate official sources or systems.
